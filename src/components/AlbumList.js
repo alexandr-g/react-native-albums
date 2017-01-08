@@ -20,7 +20,6 @@ class AlbumList extends Component {
   render() {
     return (
       <View>
-        <Text>Albums goes here: </Text>
         {this.renderAlbums()}
       </View>
     );
