@@ -4,7 +4,7 @@ import React from 'react';
 import renderer from 'react-test-renderer';
 import AlbumList from '../src/components/AlbumList';
 
-describe('basic components render', function() {
+describe('basic components render', function () {
   it('should render AlbumList correctly', () => {
     const tree = renderer.create(
       <AlbumList />
