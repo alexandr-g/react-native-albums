@@ -28,3 +28,5 @@
 **4. To run tests (not required)**
 
 `npm run test`
+
+**Reference:** this app was build as a part of https://github.com/StephenGrider Udemy course
